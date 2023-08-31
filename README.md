@@ -6,6 +6,9 @@ After 4 years working in education I've decided to change my proffesion. As an e
 ## Certificates
 - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 102633
 
+##  My user stories examples
+- [User Stories](https://drive.google.com/file/d/1qgy6aECc1kwjxSKiYlXXQtGXRnwi1QKu/view?usp=share_link) 
+
 ## My test case examples
  
 ## My bug reports
