@@ -13,8 +13,9 @@ After 4 years working in education I've decided to change my proffesion. As an e
 ## My test cases examples
 - [Test Cases](https://drive.google.com/file/d/1uluJ2ByAr0wcJ94-vFbFeCjxrhtlvjz3/view?usp=sharing)
  
-## My bug reports
+## My bug report example
+- [Bug Report](https://drive.google.com/file/d/1JQG37eX52YTIn_SIbU0PNB9XSZRDxqOP/view?usp=sharing)
 
-## My examples of diagrams and decision tables
+## My diagrams and decision tables examples
 
 
