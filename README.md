@@ -16,7 +16,7 @@ After 4 years working in education I've decided to change my proffesion. As an e
 ## My bug report example
 - [Bug Report](https://drive.google.com/file/d/1JQG37eX52YTIn_SIbU0PNB9XSZRDxqOP/view?usp=sharing)
 
-## My decision tables example
+## My decision table example
 - [Decision Table](https://docs.google.com/spreadsheets/d/1qrd4mDYGGgqdv3aJE2EHKtTlwsb6MPGvRVR1FHgeknY/edit?usp=sharing)
 
 
