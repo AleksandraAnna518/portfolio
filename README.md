@@ -18,7 +18,7 @@ After 4 years working in education I've decided to change my proffesion. As an e
 
 ## My bugs examples reported in Jira
 - [Bug1](https://drive.google.com/file/d/1Ecuuk0gXWCrDXbUGbn6VRhaulrUlEe6n/view?usp=sharing)
-- [Bug1](https://drive.google.com/file/d/1oC8WuXrlAG6ZHLSQBooUf3Zt7EyjGVA8/view?usp=sharing)
+- [Bug2](https://drive.google.com/file/d/1oC8WuXrlAG6ZHLSQBooUf3Zt7EyjGVA8/view?usp=sharing)
 
 ## My decision table example
 - [Decision Table](https://docs.google.com/spreadsheets/d/1qrd4mDYGGgqdv3aJE2EHKtTlwsb6MPGvRVR1FHgeknY/edit?usp=sharing)
