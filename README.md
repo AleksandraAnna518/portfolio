@@ -14,7 +14,7 @@ After 4 years working in education I've decided to change my proffesion. As an e
 - [Test Cases](https://drive.google.com/file/d/1uluJ2ByAr0wcJ94-vFbFeCjxrhtlvjz3/view?usp=sharing)
  
 ## My bug report example
-- [Bug Report](https://drive.google.com/file/d/1JQG37eX52YTIn_SIbU0PNB9XSZRDxqOP/view?usp=sharing)
+- [Bug Report](https://drive.google.com/file/d/1iRnIYaldXgC_iXzlC1A0smj9QS7OROdg/view?usp=sharing)
 
 ## My bugs examples reported in Jira
 - [Bug1](https://drive.google.com/file/d/1Ecuuk0gXWCrDXbUGbn6VRhaulrUlEe6n/view?usp=sharing)
