@@ -8,13 +8,13 @@ After few years working in education I've decided to change my proffesion. As an
 * [GASQ](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 102633
 
 ##  My user stories examples
-- [User Stories](https://drive.google.com/file/d/1qgy6aECc1kwjxSKiYlXXQtGXRnwi1QKu/view?usp=share_link) 
+- [User Stories](https://drive.google.com/file/d/1H2mVsGUTzV1Zzory7gGPPIoHl4EnCQmT/view?usp=sharing)
 
 ## My test cases examples
 - [Test Cases](https://drive.google.com/file/d/1uluJ2ByAr0wcJ94-vFbFeCjxrhtlvjz3/view?usp=sharing)
  
 ## My bug report example
-- [Bug Report](https://drive.google.com/file/d/1iRnIYaldXgC_iXzlC1A0smj9QS7OROdg/view?usp=sharing)
+- [Bug Report](https://drive.google.com/file/d/1c_CIbao1K8y7HJ2pv1oV_7SA7wzyRmJu/view?usp=sharing)
 
 ## My bugs examples reported in Jira
 - [Bug1](https://drive.google.com/file/d/1Ecuuk0gXWCrDXbUGbn6VRhaulrUlEe6n/view?usp=sharing)
