@@ -45,7 +45,7 @@ After few years working in education I've decided to change my proffesion. As an
 
 ## Jira
  
-- [Zgłaszanie defektu w Jira + testy w Zephyr Scale](https://drive.google.com/file/d/1BwDFPzyftosVwvTcOH1eCvA5oIY9Zadf/view?usp=share_link)
+- [Zgłaszanie defektu w Jira + testy w Zephyr Scale](https://drive.google.com/file/d/1g9vwlrGLZvY6OrGtPtDN1Igh725MdVlz/view?usp=share_link)
 ##
 
 ## Postman 
