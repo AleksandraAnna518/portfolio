@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-After few years working in education I've decided to change my proffesion. As an experienced teacher I have strong organizational and communication skills. I always pay great attention to details at work or at home and my analytical and problem solving thinking are also a good basis for a QA tester. I've worked hard and taken steps to develop my technical knowledge and skills. I successfully passed the ISTQB FL exam. I also done many courses and made my own small projects, to expand my practical knowledge and skills. I belive that testing is perfect field for me and is also starting point to futher development in automation or software development. 
+After few years working in education I've decided to change my proffesion. I've worked hard to increase my technical testing knowledge. I successfully passed the ISTQB FL exam, done various courses and made many simple personal projects, to enhance my practical  testing  skills. As an  experienced  teacher  and  therapist, I have strong organizational and communication skills. My ability to work in a team combined with adaptability and patience are core strengths that allow me to quickly integrate into new environments and collaborate effectively with team members. I am a detail-oriented person who naturally notices errors and inconsistencies. Analytical thinking and persistence are also key assets that allow me to approach testing challenges. 
 ##
 
 ## Certificates
