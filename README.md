@@ -100,7 +100,7 @@ After few years working in education I've decided to change my proffesion. I've 
 
 ## Git
   
-- [Zarządzanie repozytorium GIT](https://drive.google.com/file/d/1uNvHjnVizEcHr2fP15g-FbK5wxXemkPS/view?usp=share_link)
+- [Zarządzanie repozytorium GIT](https://drive.google.com/file/d/15Mm9zZxsEpp5gdu7Vzt5234gqWEmgJXm/view?usp=share_link)
 
 ##  
 - [Pipeline w GitLab CI - Testy API w Newman](https://drive.google.com/file/d/1pRLFykpeXMbRPbZpSc5ANwEDflyUiwTu/view?usp=share_link)
