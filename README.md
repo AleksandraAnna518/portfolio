@@ -49,8 +49,6 @@ After few years working in education I've decided to change my proffesion. I've 
 ##
 
 ## Postman 
-  
-- [Testy pozytywne i negatywne parametrów zapytania do API w Postman](https://drive.google.com/file/d/106TEnYy0JvfUhg2WqYdDUqESJ-ISUZ76/view?usp=share_link)
 
 ##  
 - [Testy automatyczne w Postman - status code, response time, headers, cookies](https://drive.google.com/file/d/1MUnIviq6LnXmFXfZ--_lD3AxIytnOuAH/view?usp=share_link)
@@ -67,6 +65,9 @@ After few years working in education I've decided to change my proffesion. I've 
 ##  
 - [Data test driving w Postman - body do kolejnych iteracji z pliku JSON oraz pliku CSV ](https://drive.google.com/file/d/1d15Ei5FZFR-AUDewrsuIyX1J79sWKnpy/view?usp=share_link)
 
+##
+- [Testy pozytywne i negatywne parametrów zapytania do API w Postman](https://drive.google.com/file/d/106TEnYy0JvfUhg2WqYdDUqESJ-ISUZ76/view?usp=share_link)
+  
 ##  
 - [Prosty Mock w Postman](https://drive.google.com/file/d/1fMD6lDd7Fp9Zu8CYpcH7BkgWt3xINUd7/view?usp=share_link)
 ##
